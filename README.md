@@ -86,5 +86,3 @@ Key Findings:
 #### **Authors**
 - **Utsav Garg (2021108)**
 - **Parthiv Dholaria (2021078)**
-
-This README serves as a comprehensive guide to the project's scope, methodologies, and outcomes.
